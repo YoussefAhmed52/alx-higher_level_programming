@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# 1-rectangle module
+# 0-rectangle module
 """
 This module contains a class Rectangle
 
